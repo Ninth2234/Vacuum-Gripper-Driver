@@ -48,14 +48,14 @@ The goal is to create a plug-and-play actuator unit for testing and integration 
 ---
 
 ## 📏 Technical Specifications
-Parameter	Value
-Dimensions	120 × 60 × 35 mm
-Weight	170 g
-Supply Pressure	Up to 5 bar
-Operating Voltage	24 V DC (industrial standard)
-Air Volume (per stroke)	≈ 6032 mm³
-Pneumatic Fittings	Ø 4 mm push-fit connectors
-Control Interface	PLC / Microcontroller I/O (digital trigger)
+- Parameter	Value
+- Dimensions	120 × 60 × 35 mm
+- Weight	170 g
+- Supply Pressure	Up to 5 bar
+- Operating Voltage	24 V DC (industrial standard)
+- Air Volume (per stroke)	≈ 6032 mm³
+- Pneumatic Fittings	Ø 4 mm push-fit connectors
+- Control Interface	PLC / Microcontroller I/O (digital trigger)
 ---
 
 ## 🧠 Example
