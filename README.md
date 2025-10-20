@@ -5,7 +5,7 @@
   <img src="./images/Vacuum Gripper Driver(rendered).png" width="48%" />
 </p>
 
-💡 Description
+## 💡 Description
 The Compact Modular Pneumatic Actuator System is an integrated unit that combines an electrically driven solenoid valve with a precision linear motion assembly to deliver programmable bidirectional pressure control within a single, space-efficient enclosure. Designed for advanced automation, robotic manipulation, and laboratory fluid-handling applications, the system offers exceptional versatility where compactness, responsiveness, and precise pneumatic regulation are required.
 
 The device actively provides both vacuum pressure for gripping and positive pressure for release, enabling accurate, repeatable, and high-speed operation in tasks such as object handling, assembly, or automated dispensing. The integrated solenoid valve ensures rapid switching and fine pressure modulation, while the linear actuator mechanism provides stable and consistent displacement under dynamic loads.
