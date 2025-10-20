@@ -48,7 +48,6 @@ The goal is to create a plug-and-play actuator unit for testing and integration 
 ---
 
 ## 📏 Technical Specifications
-- Parameter	Value
 - Dimensions	120 × 60 × 35 mm
 - Weight	170 g
 - Supply Pressure	Up to 5 bar
