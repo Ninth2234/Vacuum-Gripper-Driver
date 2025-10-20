@@ -59,4 +59,5 @@ The goal is to create a plug-and-play actuator unit for testing and integration 
 ---
 
 ## 🧠 Example
-🎥 Demo Video: https://youtu.be/TiwMHKVwiJI
+[![Demo Video](https://img.youtube.com/vi/TiwMHKVwiJI/0.jpg)](https://youtu.be/TiwMHKVwiJI)
+
