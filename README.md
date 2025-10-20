@@ -14,7 +14,6 @@ Its modular configuration allows seamless integration into distributed pneumatic
 
 The actuator operates on a regulated compressed-air source and conforms to the 24-V industrial power standard, ensuring compatibility with programmable logic controllers (PLCs), embedded microcontrollers, and other industrial control architectures. This integration of compact design, fast pneumatic response, and industrial interoperability positions the system as an efficient and adaptable solution for next-generation robotic and automation applications.
 
-Youtube: https://youtu.be/TiwMHKVwiJI
 ---
 
 ## 📘 Overview
