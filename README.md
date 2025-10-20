@@ -21,7 +21,7 @@ The actuator operates on a regulated compressed-air source and conforms to the 2
 This project provides the design files, electrical connections, and control instructions for a pneumatic actuator assembly.  
 The module consists of:
 - A **pneumatic linear actuator**  
-- A **solenoid valve (5/2 or 3/2 type)**  
+- A **solenoid valve (5/2 type)**  
 - **Air tubing and fittings**  
 - **Electrical control wiring**
 
