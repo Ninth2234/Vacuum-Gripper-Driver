@@ -1,14 +1,20 @@
 # Pneumatic Actuator Module
 
 <p align="center">
-  <img src="./images/dual_stroke_vacuum_generator%20.jpg" width="48%" />
-  <img src="./images/dual_stroke_vacuum_generator(rendered).png" width="48%" />
+  <img src="./images/Vacuum Gripper Driver%20.jpg" width="48%" />
+  <img src="./images/Vacuum Gripper Driver(rendered).png" width="48%" />
 </p>
 
+💡 Description
+The Compact Modular Pneumatic Actuator System is an integrated unit that combines an electrically driven solenoid valve with a precision linear motion assembly to deliver programmable bidirectional pressure control within a single, space-efficient enclosure. Designed for advanced automation, robotic manipulation, and laboratory fluid-handling applications, the system offers exceptional versatility where compactness, responsiveness, and precise pneumatic regulation are required.
 
-A compact and modular pneumatic actuator system with integrated solenoid valve and linear motion assembly.  
-Designed for use in automation, robotics, or laboratory fluid control systems.
+The device actively provides both vacuum pressure for gripping and positive pressure for release, enabling accurate, repeatable, and high-speed operation in tasks such as object handling, assembly, or automated dispensing. The integrated solenoid valve ensures rapid switching and fine pressure modulation, while the linear actuator mechanism provides stable and consistent displacement under dynamic loads.
 
+Its modular configuration allows seamless integration into distributed pneumatic networks or multi-actuator systems, minimizing external tubing and wiring complexity while enhancing reliability. Compact yet powerful, the unit’s ability to generate both suction and blow-off functions makes it particularly suitable for precision grasp-and-release mechanisms in robotic end-effectors, pick-and-place machines, and laboratory automation platforms.
+
+The actuator operates on a regulated compressed-air source and conforms to the 24-V industrial power standard, ensuring compatibility with programmable logic controllers (PLCs), embedded microcontrollers, and other industrial control architectures. This integration of compact design, fast pneumatic response, and industrial interoperability positions the system as an efficient and adaptable solution for next-generation robotic and automation applications.
+
+Youtube: https://youtu.be/TiwMHKVwiJI
 ---
 
 ## 📘 Overview
@@ -43,4 +49,4 @@ The goal is to create a plug-and-play actuator unit for testing and integration 
 ---
 
 ## 🧠 Example
-Youtube here!!!
+🎥 Demo Video: https://youtu.be/TiwMHKVwiJI
