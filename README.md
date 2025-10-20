@@ -1,8 +1,8 @@
 # Pneumatic Actuator Module
 
 <p align="center">
-  <img src="./images/Vacuum Gripper Driver%20.jpg" width="48%" />
-  <img src="./images/Vacuum Gripper Driver(rendered).png" width="48%" />
+  <img src="./images/Vacuum_Gripper_Driver.jpg" width="48%" />
+  <img src="./images/Vacuum_Gripper_Driver(rendered).png" width="48%" />
 </p>
 
 ## 💡 Description
